@@ -15,7 +15,7 @@ TODO:
 - [ ] : minimal_data_sharing: shows how to use different data sharing approached to avoid
   blocking calls when sharing data between real-time and non real-time threads
 - [ ] : minimal_dds_tuning: shows how to use DDS specific configurations to tune real-time
-- [ ] : try to add qnx codes.
+- [ ] : make them run on qnx710
 
 ## Requirements
 
